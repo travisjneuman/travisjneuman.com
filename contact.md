@@ -4,5 +4,5 @@ title: Contact
 ---
 <div class="blurb">
 	<h1>Contact</h1>
-	<p>e: admin@neumant.io <br> Grand Rapids, Michigan <br><a href="/about"><a href="mailto:admin@neumant.io?subject=Request for Admin">email</a></a></p>
+	<p><a href="mailto:admin@neumant.io?subject=Request for Admin">e: admin@neumant.io </a><br> Grand Rapids, Michigan <br><a href="/about"></a></p>
 </div><!-- /.blurb -->
