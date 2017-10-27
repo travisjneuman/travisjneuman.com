@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: neumant.io - contact
 ---
 <div class="blurb">
 	<h2>About</h2><br>
