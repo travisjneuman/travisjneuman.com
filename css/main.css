@@ -41,5 +41,5 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: 1;
+    list-style: none;
 }
