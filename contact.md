@@ -3,6 +3,7 @@ layout: default
 title: Contact
 ---
 <div class="blurb">
-	<h1>Contact</h1>
-	<p>e: <a href="mailto:admin@neumant.io?subject=Request for Admin">admin@neumant.io</a><br>Grand Rapids, Michigan<br><a href="/about"></a></p>
+	<h2>About</h2><br>
+	<h3>Travis Neuman - neumant.io</h3><br>
+	<h4>I.T. Administrator & Aloha Programmer</h4>
 </div><!-- /.blurb -->
