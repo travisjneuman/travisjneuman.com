@@ -3,8 +3,7 @@ layout: default
 title: neumant.io - about
 ---
 <div class="blurb">
-	<h1>What is this?</h1>
-	<p>I.T. Administrator & Aloha Programmer, Grand Rapids, Michigan <br>
-	<a href="/about"><a href="mailto:admin@neumant.io?subject=Request for Admin">email the site admin</a>
-	</a></p>
+	<h2>About</h2><br>
+	<h3>Travis Neuman - neumant.io</h3><br>
+	<h4>I.T. Administrator & Aloha Programmer</h4>
 </div><!-- /.blurb -->
