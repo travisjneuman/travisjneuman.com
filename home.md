@@ -4,7 +4,8 @@ title: neuamnt.io - home
 ---
 <div class="blurb">
 	<h2>home</h2><br>
-	
-	Welcome to my website.<br>  
-	     This will be used for a variety of reasons... more to follow
 </div><!-- /.blurb -->
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/XGSy3_Czz8k">
+</iframe> 
