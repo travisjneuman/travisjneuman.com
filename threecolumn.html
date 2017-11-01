@@ -23,7 +23,7 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 	</head>
-	<body class="homepage">
+	<body>
 
 	<!-- Header -->
 		<div id="header">
@@ -38,8 +38,8 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li class="active"><a href="index.html">Homepage</a></li>
-							<li><a href="threecolumn.html">Two Sidebars</a></li>
+							<li><a href="index.html">Homepage</a></li>
+							<li class="active"><a href="threecolumn.html">Two Sidebars</a></li>
 							<li><a href="twocolumn1.html">Left Sidebar</a></li>
 							<li><a href="twocolumn2.html">Right Sidebar</a></li>
 							<li><a href="onecolumn.html">No Sidebar</a></li>
@@ -53,58 +53,10 @@
 	<!-- Main -->
 		<div id="main">
 			<div class="container">
-				<header>
-					<h2>Gravida nibh quis urna</h2>
-				</header>
 				<div class="row">
-					<div class="3u">
-						<section>
-							<a href="#" class="image full"><img src="images/pics01.jpg" alt="" /></a>
-							<p>Quisque dictum. Pellentesque viverra  enim. Integer nisl risus, sagittis convallis, rutrum id, elementum.</p>
-							<a href="#" class="button">Read More</a>
-						</section>
-					</div>
-					<div class="3u">
-						<section>
-							<a href="#" class="image full"><img src="images/pics11.jpg" alt="" /></a>
-							<p>Pellentesque viverra  enim. Tristique ante ut risus. Quisque dictum. Integer sagittis convallis elementum.</p>
-							<a href="#" class="button">Read More</a>
-						</section>
-					</div>
-					<div class="3u">
-						<section>
-							<a href="#" class="image full"><img src="images/pics12.jpg" alt="" /></a>
-							<p>Pellentesque viverra  enim. Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum.</p>
-							<a href="#" class="button">Read More</a>
-						</section>
-					</div>
-					<div class="3u">
-						<section>
-							<a href="#" class="image full"><img src="images/pics13.jpg" alt="" /></a>
-							<p>Tristique ante ut risus. Quisque dictum. Integer nisl risus, sagittis convallis elementum.</p>
-							<a href="#" class="button">Read More</a>
-						</section>
-					</div>
-				</div>
-				<div class="divider">&nbsp;</div>
-				<div class="row">
-				
-					<!-- Content -->
-						<div class="8u skel-cell-important">
-							<section id="content">
-								<header>
-									<h2>Integer gravida nibh quis urna</h2>
-									<span class="byline">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum</span>
-								</header>
-								<p><a href="#" class="image full"><img src="images/pics02.jpg" alt=""></a></p>
-								<p>This is <strong>Monochromed</strong>, a responsive HTML5 site template freebie by <a href="http://templated.co">TEMPLATED</a>. Released for free under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so use it for whatever (personal or commercial) &ndash; just give us credit! Check out more of our stuff at <a href="http://templated.co">our site</a> or follow us on <a href="http://twitter.com/templatedco">Twitter</a>.</p>
-								<a href="#" class="button">Read More</a>
-							</section>
-						</div>
-					<!-- /Content -->
-						
+
 					<!-- Sidebar -->
-						<div id="sidebar" class="4u">
+						<div id="sidebar" class="3u">
 							<section>
 								<header>
 									<h2>Gravida praesent</h2>
@@ -112,17 +64,48 @@
 								</header>
 								<p>Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum. Maecenas luctus lectus at sapien. Consectetuer adipiscing elit.</p>
 								<ul class="default">
-									<li><a href="#">Pellentesque quis lectus gravida blandit.</a></li>
-									<li><a href="#">Lorem ipsum consectetuer adipiscing elit.</a></li>
-									<li><a href="#">Phasellus nec nibh pellentesque congue.</a></li>
-									<li><a href="#">Cras aliquam risus pellentesque pharetra.</a></li>
-									<li><a href="#">Duis non metus commodo euismod lobortis.</a></li>
-									<li><a href="#">Lorem ipsum dolor adipiscing elit.</a></li>
+									<li><a href="#">Pellentesque quis lectus</a></li>
+									<li><a href="#">Lorem ipsum adipiscing elit</a></li>
+									<li><a href="#">Phasellus pellentesque congue</a></li>
+									<li><a href="#">Cras aliquam risus pharetra</a></li>
+									<li><a href="#">Duis metus euismod lobortis</a></li>
 								</ul>
 							</section>
 						</div>
 					<!-- Sidebar -->
+				
+					<!-- Content -->
+						<div id="content" class="6u skel-cell-important">
+							<section>
+								<header>
+									<h2>Two Sidebars</h2>
+									<span class="byline">Praesent lacus at urna congue rutrum</span>
+								</header>
+								<p><a href="#" class="image full"><img src="images/pics02.jpg" alt=""></a></p>
+								<p>Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor enim accumsan lacinia. Donec condimentum, urna non molestie semper, ligula enim ornare nibh, quis laoreet eros quam eget ante. Aliquam libero. Vivamus nisl nibh, iaculis vitae, viverra sit amet, ullamcorper vitae, turpis. Aliquam erat volutpat. Vestibulum dui sem, pulvinar sed, imperdiet nec, iaculis nec, leo. Fusce odio. Etiam arcu dui, faucibus eget, placerat vel, sodales eget, orci. Donec ornare neque ac sem. Mauris aliquet. Aliquam sem ultricies. Phasellus tempor vehicula justo.</p>
+							</section>
+						</div>
+					<!-- /Content -->
 						
+					<!-- Sidebar -->
+						<div id="sidebar" class="3u">
+							<section>
+								<header>
+									<h2>Gravida praesent</h2>
+									<span class="byline">Praesent lacus congue rutrum</span>
+								</header>
+								<p>Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum. Maecenas luctus lectus at sapien. Consectetuer adipiscing elit.</p>
+								<ul class="default">
+									<li><a href="#">Pellentesque quis lectus</a></li>
+									<li><a href="#">Lorem ipsum adipiscing elit</a></li>
+									<li><a href="#">Phasellus pellentesque congue</a></li>
+									<li><a href="#">Cras aliquam risus pharetra</a></li>
+									<li><a href="#">Duis metus euismod lobortis</a></li>
+								</ul>
+							</section>
+						</div>
+					<!-- Sidebar -->
+				
 				</div>
 			
 			</div>
