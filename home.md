@@ -7,5 +7,5 @@ title: neuamnt.io - home
 </div><!-- /.blurb -->
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/XGSy3_Czz8k">
+src="https://youtu.be/Pda29v63eXI">
 </iframe> 
