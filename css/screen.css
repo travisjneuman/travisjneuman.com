@@ -3131,7 +3131,7 @@ textarea:focus {
 
 /* -------- Parallax -------- */
 .parallax-box {
-  background-image: url(../img/rent-boat-background.jpg);
+  background-image: url(../img/hero-background.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
