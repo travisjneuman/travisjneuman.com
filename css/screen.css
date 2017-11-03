@@ -2545,7 +2545,7 @@ textarea:focus {
   overflow: hidden;
 }
 .btn.btn-special {
-  background: #e7434e;
+  background: #00BFFF;
   line-height: 60px;
   border-radius: 5px;
   color: #ffffff;
@@ -2558,7 +2558,7 @@ textarea:focus {
   padding: 0 40px;
 }
 .btn.btn-special:hover {
-  background: #34495e;
+  background: #00BFFF;
 }
 .btn.btn-special:not(.no-icon)::before {
   content: "";
