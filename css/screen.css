@@ -2546,7 +2546,7 @@ textarea:focus {
   overflow: hidden;
 }
 .btn.btn-special {
-  background: #00BFFF;
+  background: #778899;
   line-height: 60px;
   border-radius: 5px;
   color: #ffffff;
@@ -2655,7 +2655,7 @@ textarea:focus {
   letter-spacing: 0.04em;
 }
 .main-header .site-nav .site-links li a:hover {
-  color: #e7434e;
+  color: #87ceeb;
 }
 @media (min-width: 1400px) {
   .main-header .header-content {
@@ -2702,7 +2702,7 @@ textarea:focus {
   line-height: 1.2em;
 }
 .main-footer .widget ul:not(.social-block) li a:hover {
-  color: #e7434e;
+  color: #87ceeb;
 }
 .main-footer .widget ul:not(.social-block) li:not(:last-of-type) {
   margin-bottom: 12.5px;
