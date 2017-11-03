@@ -2558,7 +2558,7 @@ textarea:focus {
   padding: 0 40px;
 }
 .btn.btn-special:hover {
-  background: #00BFFF;
+  background: #34495e;
 }
 .btn.btn-special:not(.no-icon)::before {
   content: "";
