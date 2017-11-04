@@ -39,7 +39,7 @@ h6 {
 
 /* Links inside the navbar */
 .navbar a {
-    float: left;
+    float: center;
     display: block;
     color: #f2f2f2;
     text-align: center;
@@ -61,7 +61,7 @@ h6 {
 
 /* Links inside the navbar */
 .navbar a {
-    float: left;
+    float: center;
     display: block;
     color: #f2f2f2;
     text-align: center;
