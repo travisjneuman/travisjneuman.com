@@ -1,6 +1,6 @@
 body {
     margin: 20px auto;
-    width: 67.5%;
+    width: 65%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -20,7 +20,7 @@ a:hover {
     text-decoration: bold;
 }
 h1 {
-    font-size: 2em;
+    font-size: 1.7em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
