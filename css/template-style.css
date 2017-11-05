@@ -4,7 +4,7 @@ padding:3.5em 0;
 }
 footer {
 background:#fff;
-padding:3.5em 0;
+padding:0em 0;
 }
 
 /* sticky footer css */
@@ -20,7 +20,7 @@ overflow: scroll;
  
 .with-sticky-footer {
 display: table;
-height: 50%;
+height: 100%;
 table-layout: fixed;
 width: 100%; 
 }
