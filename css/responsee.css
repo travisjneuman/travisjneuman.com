@@ -37,7 +37,7 @@ a, a:link, a:visited, a:hover, a:active {
   -moz-transition:color 0.20s linear 0s;
   -webkit-transition:color 0.20s linear 0s;
 }  
-a:hover {color:#B6C900;}
+a:hover {color:#4488dc;}
 p,li,dl,blockquote,table,kbd {
   font-size: 0.85rem;
   line-height: 1.6;
