@@ -1,7 +1,21 @@
 ---
 layout: default
-title: neumant.io - blog
 ---
 <div class="blurb">
-	<h2>blog</h2><br>
+         <section>
+            <!-- FIRST BLOCK -->
+            <div id="first-block">
+               <div class="line">
+                  <div class="margin-bottom">
+                     <div class="margin">
+                        <article class="s-12">
+                           <h1>Personal Blog</h1>
+                           <p>This is where I will talk about the things going on in my life.</p>
+                           <p>Some blog posts may be linked to the projects I have going on, or may be completely unrelated stories.</p>
+                        </article>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
 </div><!-- /.blurb -->
