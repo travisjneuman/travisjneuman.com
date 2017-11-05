@@ -1,13 +1,20 @@
 ---
-format: default
-title: default
+layout: default
 ---
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>Look at this title!</title>
-		</head>
-		<body>
-			<h1>I am very important!</h1>
-		</body>
-	</html
+
+         <section>
+            <!-- FIRST BLOCK -->
+            <div id="first-block">
+               <div class="line">
+                  <div class="margin-bottom">
+                     <div class="margin">
+                        <article class="s-12">
+                           <h1>Test Page</h1>
+                           <p>This is the page where I will test out different types of coding features.</p>
+                           <p>Starting this site from scratch, learning the newest CSS/HTML.</p>
+                        </article>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
