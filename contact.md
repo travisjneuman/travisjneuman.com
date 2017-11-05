@@ -10,7 +10,7 @@ layout: default
                      <div class="margin">
                         <article class="s-12">
                            <h1>Contact Information</h1>
-                           <p>e: <a href="mailto:admin@neumant.io">admin@neumant.io</p>
+                           <p>e: <a href="mailto:admin@neumant.io">admin@neumant.io</a></p>
                            c: <p>616-401-0831</p>
                         </article>
                      </div>
