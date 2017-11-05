@@ -1,8 +1,21 @@
 ---
 layout: default
-title: neumant.io - ReadMe
 ---
 <div class="blurb">
-	<h1>ReadME</h1>
-	<p>Custom Site ReadMe File.<a href="/about"><a href="mailto:admin@neumant.io?subject=Request for Admin">E-Mail the Admin!</a></a></p>
+         <section>
+            <!-- FIRST BLOCK -->
+            <div id="first-block">
+               <div class="line">
+                  <div class="margin-bottom">
+                     <div class="margin">
+                        <article class="s-12">
+                           <h1>Site ReadMe</h1>
+                           <p>To be updated frequently,</p>
+                           <p>check back often for updates.</p>
+                        </article>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
 </div><!-- /.blurb -->
