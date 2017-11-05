@@ -9,18 +9,18 @@ padding:3.5em 0;
 
 /* sticky footer css */
 html {
-height: 100%;
+height: 50%;
 overflow: hidden;
 }
  
 body {
-height: 100%;
+height: 50%;
 overflow: scroll;
 }
  
 .with-sticky-footer {
 display: table;
-height: 100%;
+height: 50%;
 table-layout: fixed;
 width: 100%; 
 }
