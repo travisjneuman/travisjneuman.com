@@ -1,7 +1,21 @@
 ---
 layout: default
-title: neumant.io - about
 ---
 <div class="blurb">
-	<h2>about</h2><br>
+         <section>
+            <!-- FIRST BLOCK -->
+            <div id="first-block">
+               <div class="line">
+                  <div class="margin-bottom">
+                     <div class="margin">
+                        <article class="s-12">
+                           <h1>About Me</h1>
+                           <p>Little bit about me.</p>
+                           <p>Age, Location, Job, Personal Stuff</p>
+                        </article>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
 </div><!-- /.blurb -->
