@@ -17,7 +17,7 @@ body {
   color:#444;
 }
 h1,h2,h3,h4,h5,h6 {
-  color:#152732;
+  color:#244356;
   font-weight: normal;
   line-height: 1.3;
   margin:0.5rem 0;  
@@ -30,14 +30,14 @@ h5 {font-size:1.1rem;}
 h6 {font-size:0.9rem;}    
 a, a:link, a:visited, a:hover, a:active {
   text-decoration:none;
-  color:#4488dc;
+  color:#256ec8;
   transition:color 0.20s linear 0s;
   -o-transition:color 0.20s linear 0s;
   -ms-transition:color 0.20s linear 0s;
   -moz-transition:color 0.20s linear 0s;
   -webkit-transition:color 0.20s linear 0s;
 }  
-a:hover {color:#4488dc;}
+a:hover {color:#5996e0;}
 p,li,dl,blockquote,table,kbd {
   font-size: 0.85rem;
   line-height: 1.6;
