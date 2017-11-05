@@ -9,7 +9,7 @@ layout: default
                   <div class="margin-bottom">
                      <div class="margin">
                         <article class="s-12">
-                           <h1>About Me</h1>
+                           <h1>about me</h1>
                            <p>Little bit about me.</p>
                            <p>Age, Location, Job, Personal Stuff</p>
                         </article>
