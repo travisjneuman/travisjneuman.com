@@ -9,12 +9,12 @@ padding:3.5em 0;
 
 /* sticky footer css */
 html {
-height: 50%;
+height: 100%;
 overflow: hidden;
 }
  
 body {
-height: 50%;
+height: 100%;
 overflow: scroll;
 }
  
