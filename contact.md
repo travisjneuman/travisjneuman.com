@@ -11,7 +11,7 @@ layout: default
                         <article class="s-12">
                            <h1>contact information</h1>
                            <p>e: <a href="mailto:admin@neumant.io">admin@neumant.io</a></p>
-                           <p>c: <a>616-401-0831</a></p>
+                           <p>c: <a href="admin@neumant.io">request</a></p>
                         </article>
                      </div>
                   </div>
