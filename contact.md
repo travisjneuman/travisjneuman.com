@@ -10,8 +10,9 @@ layout: default
                      <div class="margin">
                         <article class="s-12">
                            <h1>contact information</h1>
-                           <p>e: <a href="mailto:admin@neumant.io?subject=neumant.io/contact">admin@neumant.io</a></p>
-                           <p>c: <a href="mailto:admin@neumant.io?cell-phone number&send this e-mail to request my cell-phone number.<br>(do not modify either the subject or the body, or the automated system will not be able to properly filter your request.)<br>thank you.">request</a></p>
+                           <p>e-mail: <a href="mailto:admin@neumant.io">admin@neumant.io</a></p>
+                           <p>linkedin: <a href="https://linkedin.com/in/neumant">Travis Neuman</a></p>
+                           <p>twitter: <a href="https://twitter.com/neumant_io">@neumant_io</a></p>
                         </article>
                      </div>
                   </div>
