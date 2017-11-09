@@ -13,7 +13,7 @@ layout: default
                            <p>Little bit about me.</p>
                            <p>Age, Location, Job, Personal Stuff</p>
                            <br>
-                           <p><img src="img/frank.jpg" alt="Franklin Marie O'Boyle"></p>
+                           <li><img src="img/frank.jpg" alt="Franklin Marie O'Boyle"></li>
                         </article>
                      </div>
                   </div>
