@@ -18,8 +18,7 @@ layout: default
                                  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                                  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                                  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                                 <a href="#personalproject1"></a>
-                                 <h1>personal project one</h1>
+                                 <h1><a href="#personalproject1">personal project 1</a></h1>
                         </article>
                      </div>
                   </div>
