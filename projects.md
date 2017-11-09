@@ -12,6 +12,7 @@ layout: default
                            <h1>projects</h1>
                            <p>This is where I will post about projects that I have taken on.</p>
                            <p>There will be both professional and personal projects talked about here.</p>
+                                 <h1><a href="/projects/personal"><h1><a href="/projects/professional"></a>
                         </article>
                      </div>
                   </div>
