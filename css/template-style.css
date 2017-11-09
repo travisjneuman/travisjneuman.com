@@ -35,8 +35,8 @@ height: 1px;
   .right {
   float:none;
   }
-}
 
-img {
-    vertical-align: middle;
+
+ img {
+    vertical-align: inherit;
 }
