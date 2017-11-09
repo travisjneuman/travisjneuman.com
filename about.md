@@ -13,7 +13,7 @@ layout: default
                            <p>Little bit about me.</p>
                            <p>Age, Location, Job, Personal Stuff</p>
                            <br>
-                           <p style="text-align:center;"><img src="img/frank.jpg"></p>
+                           <h1><img src="img/frank.jpg"></h1>
                         </article>
                      </div>
                   </div>
