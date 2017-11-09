@@ -36,3 +36,7 @@ height: 1px;
   float:none;
   }
 }
+
+img {
+    vertical-align: middle;
+}
