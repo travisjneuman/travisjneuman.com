@@ -12,13 +12,7 @@ layout: default
                            <h1>personal projects</h1>
                            <p>This is my personal website.</p>
                            <p>Here will be a host of personal projects and other life activities.</p>
-                                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                                 <h1><a href="#personalproject1">personal project 1</a></h1>
+                                 <br><h1><a href="#personalproject1">personal project 1</a></h1>
                         </article>
                      </div>
                   </div>
