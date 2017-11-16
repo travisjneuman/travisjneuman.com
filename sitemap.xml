@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
+  <li><url>
     <loc>http://neumant.io/</loc>
-  </url><br>
-  <url>
+  </url></li>
+  <li><url>
     <loc>http://neumant.io/about</loc>
-  </url><br>
-  <url>
+  </url></li>
+  <li><url>
     <loc>http://neumant.io/blog</loc>
-  </url><br>
-  <url>
+  </url></li>
+  <li><url>
     <loc>http://neumant.io/projects</loc>
-  </url><br>
-  <url>
+  </url></li>
+  <li><url>
     <loc>http://neumant.io/projects/personal</loc>
-  </url><br>
-  <url>
+  </url></li>
+  <li><url>
     <loc>http://neumant.io/projects/professional</loc>
-  </url><br>
-  <url>
+  </url></li>
+  <li><url>
     <loc>http://neumant.io/knowledgebase</loc>
-  </url><br>
-  <url>
+  </url></li>
+  <li><url>
     <loc>http://neumant.io/contact</loc>
-  </url><br>
-  <url>
+  </url></li>
+  <li><url>
     <loc>http://neumant.io/readme</loc>
-  </url><br>
-  <url>
+  </url></li>
+  <li><url>
     <loc>http://neumant.io/sitemap</loc>
-  </url><br>
+  </url></li>
 </urlset>
