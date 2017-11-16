@@ -12,7 +12,6 @@ layout: default
                            <h1>site readme</h1>
                            <p>To be updated frequently,</p>
                            <p>check back often for updates.</p>
-                           <br><p>This will also be where I host the site map, for a visual layout of my entire site. Check frequently to follow changes.</p>
                         </article>
                      </div>
                   </div>
