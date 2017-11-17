@@ -2,8 +2,9 @@ http://neumant.io/
 http://neumant.io/about
 http://neumant.io/blog
 http://neumant.io/projects
-http://neumant.io/projects/professional
 http://neumant.io/projects/personal
+http://neumant.io/projects/professional
 http://neumant.io/knowledgebase
 http://neumant.io/contact
 http://neumant.io/readme
+http://neumant.io/sitemap
