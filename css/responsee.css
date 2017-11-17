@@ -59,7 +59,7 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
 .top-nav li:hover > ul{display:block;z-index:10;}
 .top-nav li:hover > ul ul{left:100%;margin:-2.5rem 0;width:100%;}
 }
-.nav-text,.aside-nav-text{display:none;}
+/* .nav-text,.aside-nav-text{display:none;}
 .aside-nav a,.aside-nav a:link,.aside-nav a:visited,.aside-nav li > ul,.top-nav a,.top-nav a:link,.top-nav a:visited{transition:background 0.20s linear 0s;-o-transition:background 0.20s linear 0s;-ms-transition:background 0.20s linear 0s;-moz-transition:background 0.20s linear 0s;-webkit-transition:background 0.20s linear 0s;}
 .aside-nav ul{background:#e8e8e8;padding:0;}
 .aside-nav li{list-style:none outside none;cursor:pointer;}
@@ -149,7 +149,7 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
 .hide-l,.hide-s{display:block!important;}
 .hide-m{display:none!important;}
 nav{display:block;cursor:pointer;line-height:3;}
-/* .top-nav li a{background:none repeat scroll 0 0 #4a4a4a;}
+.top-nav li a{background:none repeat scroll 0 0 #4a4a4a;}
 .top-nav > ul{height:0;max-width:100%;overflow:hidden;position:relative;z-index:999;}
 .top-nav > ul.show-menu,.aside-nav.minimize-on-small > ul.show-menu{height:auto;}
 .top-nav ul ul{left:0;margin-top:0;position:relative;right:0;}
@@ -162,7 +162,7 @@ nav{display:block;cursor:pointer;line-height:3;}
 .top-nav li ul,.top-nav li ul li ul{display:block;overflow:hidden;height:0;}
 .top-nav > ul ul.show-ul{display:block;height:auto;}
 .top-nav li ul li a{background:none repeat scroll 0 0 #9d9d9d;padding:0.625rem;}
-.top-nav li ul li ul li a{background:none repeat scroll 0 0 #d7d7d7;color:#222;} */
+.top-nav li ul li ul li a{background:none repeat scroll 0 0 #d7d7d7;color:#222;}
 .nav-text{color:#fff;display:block;font-size:1.2rem;line-height:3;margin-right:0.625rem;max-width:100%;text-align:center;vertical-align:middle;}
 .nav-text:after{content:"\f008";font-family:"mfg";font-size:1.1rem;margin-left:0.5rem;text-align:right;}
 .l-offset-1,.l-offset-2,.l-offset-five,.l-offset-3,.l-offset-4,.l-offset-5,.l-offset-6,.l-offset-7,.l-offset-8,.l-offset-9,.l-offset-10,.l-offset-11,.l-offset-12{margin-left:0;}
@@ -282,4 +282,4 @@ nav{display:block;cursor:pointer;line-height:3;}
 .s-11{width:91.6666%;}
 .s-12{width:100%}
 }
-.center{float:none;margin:0 auto;display:block;}
+.center{float:none;margin:0 auto;display:block;} */
