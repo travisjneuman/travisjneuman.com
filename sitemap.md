@@ -15,6 +15,8 @@ layout: default
                            <br>
                            <iframe src="http://neumant.io/sitemap.txt" width="600" height="400"></iframe>
                            <br>
+                           <iframe src="http://neumant.io/sitemap.xml" width="600" height="400"></iframe>
+                           <br>
                         </article>
                      </div>
                   </div>
