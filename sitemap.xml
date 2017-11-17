@@ -1,17 +1,33 @@
-<xml>
+<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <![CDATA[
-  <br>http://neumant.io/<br />
-  ]]>
-  <![CDATA[
-  http://neumant.io/about
-  ]]>
-  http://neumant.io/blog <br />
-  http://neumant.io/projects <br />
-  http://neumant.io/projects/personal <br />
-  http://neumant.io/projects/professional <br />
-  http://neumant.io/knowledgebase <br />
-  http://neumant.io/contact <br />
-  ]]>
+  <url>
+    <loc>http://neumant.io/</loc>
+  </url>
+  <url>
+    <loc>http://neumant.io/about</loc>
+  </url>
+  <url>
+    <loc>http://neumant.io/blog</loc>
+  </url>
+  <url>
+    <loc>http://neumant.io/projects</loc>
+  </url>
+  <url>
+    <loc>http://neumant.io/projects/personal</loc>
+  </url>
+  <url>
+    <loc>http://neumant.io/projects/professional</loc>
+  </url>
+  <url>
+    <loc>http://neumant.io/knowledgebase</loc>
+  </url>
+  <url>
+    <loc>http://neumant.io/contact</loc>
+  </url>
+  <url>
+    <loc>http://neumant.io/readme</loc>
+  </url>
+  <url>
+    <loc>http://neumant.io/sitemap</loc>
+  </url>
 </urlset>
-  </xml>
