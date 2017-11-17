@@ -165,7 +165,7 @@ nav{display:block;cursor:pointer;line-height:3;}
 .top-nav li ul li ul li a{background:none repeat scroll 0 0 #d7d7d7;color:#222;}
 .nav-text{color:#fff;display:block;font-size:1.2rem;line-height:3;margin-right:0.625rem;max-width:100%;text-align:center;vertical-align:middle;}
 .nav-text:after{content:"\f008";font-family:"mfg";font-size:1.1rem;margin-left:0.5rem;text-align:right;}
-/* .l-offset-1,.l-offset-2,.l-offset-five,.l-offset-3,.l-offset-4,.l-offset-5,.l-offset-6,.l-offset-7,.l-offset-8,.l-offset-9,.l-offset-10,.l-offset-11,.l-offset-12{margin-left:0;}
+.l-offset-1,.l-offset-2,.l-offset-five,.l-offset-3,.l-offset-4,.l-offset-5,.l-offset-6,.l-offset-7,.l-offset-8,.l-offset-9,.l-offset-10,.l-offset-11,.l-offset-12{margin-left:0;}
 .m-offset-1{margin-left:8.3333%;}
 .m-offset-2{margin-left:16.6666%;}
 .m-offset-five{margin-left:16.6666%;}
@@ -219,7 +219,7 @@ nav{display:block;cursor:pointer;line-height:3;}
 .m-11{width:91.6666%;}
 .m-12{width:100%}
 }
-@media screen and (max-width:480px){.size-960,.size-1140,.size-1280{max-width:480px;}
+/* @media screen and (max-width:480px){.size-960,.size-1140,.size-1280{max-width:480px;}
 .aside-nav li a{text-align:center;}
 .minimize-on-small .aside-nav-text{background:#152732 none repeat scroll 0 0;color:#fff;cursor:pointer;display:block;font-size:1.2rem;line-height:3;max-width:100%;padding-right:0.625rem;text-align:center;vertical-align:middle;}
 .aside-nav-text:after{content:"\f008";font-family:"mfg";font-size:1.1rem;margin-left:0.5rem;text-align:right;}
