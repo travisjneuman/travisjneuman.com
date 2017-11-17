@@ -13,7 +13,7 @@ layout: default
                            <p>To be updated frequently,</p>
                            <p>check back often for updates.</p>
                            <br>
-                           <iframe src="http://neumant.io/sitemap.xml" width="400" height="400"></iframe>
+                           <iframe src="http://neumant.io/sitemap.xml" width="800" height="600"></iframe>
                            <br>
                         </article>
                      </div>
