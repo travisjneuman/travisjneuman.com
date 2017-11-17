@@ -1,27 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
-<p><url>
-  <loc>http://neumant.io/</loc>
-</url></p>
-<url>
-  <loc>http://neumant.io/about</loc>
-</url>
-<url>
-  <loc>http://neumant.io/blog</loc>
-</url>
-<url>
-  <loc>http://neumant.io/projects</loc>
-</url>
-<url>
-  <loc>http://neumant.io/projects/professional</loc>
-</url>
-<url>
-  <loc>http://neumant.io/projects/personal</loc>
-</url>
-<url>
-  <loc>http://neumant.io/knowledgebase</loc>
-</url>
-<url>
-  <loc>http://neumant.io/contact</loc>
-</url>
-</urlset>
+http://neumant.io/ <br>
+http://neumant.io/about <br>
+http://neumant.io/blog <br>
+http://neumant.io/projects <br>
+http://neumant.io/projects/professional <br>
+http://neumant.io/projects/personal <br>
+http://neumant.io/knowledgebase <br>
+http://neumant.io/contact <br>
