@@ -1,1 +1,4 @@
-skynet
+User-agent: *
+Allow: /
+Allow: /sitemap.htm
+Sitemap: http://neumant.io/sitemap.xml
