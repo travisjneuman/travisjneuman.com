@@ -1,33 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc><p>http://neumant.io/</p></loc>
-  </url>
-  <url>
-    <loc>http://neumant.io/about</loc>
-  </url>
-  <url>
-    <loc>http://neumant.io/blog</loc>
-  </url>
-  <url>
-    <loc>http://neumant.io/projects</loc>
-  </url>
-  <url>
-    <loc>http://neumant.io/projects/personal</loc>
-  </url>
-  <url>
-    <loc>http://neumant.io/projects/professional</loc>
-  </url>
-  <url>
-    <loc>http://neumant.io/knowledgebase</loc>
-  </url>
-  <url>
-    <loc>http://neumant.io/contact</loc>
-  </url>
-  <url>
-    <loc>http://neumant.io/readme</loc>
-  </url>
-  <url>
-    <loc>http://neumant.io/sitemap</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--<guid value="ba39b497-2f7d-447b-9260-71bb976af989" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<url>
+<loc>http://neumant.io/</loc>
+</url>
+<url>
+<loc>http://neumant.io/about</loc>
+</url>
+<url>
+<loc>http://neumant.io/blog</loc>
+</url>
+<url>
+<loc>http://neumant.io/projects</loc>
+</url>
+<url>
+<loc>http://neumant.io/projects/personal</loc>
+</url>
+<url>
+<loc>http://neumant.io/projects/professional</loc>
+</url>
+<url>
+<loc>http://neumant.io/knowledgebase</loc>
+</url>
+<url>
+<loc>http://neumant.io/contact</loc>
+</url>
+<url>
+<loc>http://neumant.io/readme</loc>
+</url>
+<url>
+<loc>http://neumant.io/sitemap</loc>
+</url>
 </urlset>
