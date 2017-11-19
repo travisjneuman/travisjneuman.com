@@ -18,6 +18,6 @@ layout: default
                      </div>
                   </div>
                </div>
-            </div></center>
+            </div>
          </section>
 </div><!-- /.blurb -->
