@@ -11,7 +11,7 @@ layout: default
                         <article class="s-12">
                            <h1>sitemap</h1>
                            <br>
-                           <iframe src="http://neumant.io/sitemap.xml" width="270" height="400"></iframe>
+                           <iframe src="http://neumant.io/sitemap.xml" width="265" height="400"></iframe>
                            <br>
                         </article>
                      </div>
