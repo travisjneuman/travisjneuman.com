@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="blurb">
+<center><div class="blurb">
          <section>
             <!-- FIRST BLOCK -->
             <div id="first-block">
@@ -18,6 +18,6 @@ layout: default
                      </div>
                   </div>
                </div>
-            </div>
+            </div></center>
          </section>
 </div><!-- /.blurb -->
