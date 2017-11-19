@@ -9,7 +9,7 @@ layout: default
                   <div class="margin-bottom">
                      <div class="margin">
                         <article class="s-12">
-                           <h1>site readme</h1>
+                           <h1>readme</h1>
                            <p>To be updated frequently,</p>
                            <p>check back often for updates.</p>
                         </article>
