@@ -10,8 +10,6 @@ layout: default
                      <div class="margin">
                         <article class="s-12">
                            <h1>sitemap</h1>
-                           <p>To be updated frequently,</p>
-                           <p>check back often for updates.</p>
                            <br>
                            <iframe src="http://neumant.io/sitemap.xml" width="270" height="400"></iframe>
                            <br>
