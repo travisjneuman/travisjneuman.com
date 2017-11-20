@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<center><div class="blurb">
+<div class="blurb">
          <section>
             <!-- FIRST BLOCK -->
             <div id="first-block">
