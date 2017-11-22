@@ -11,7 +11,7 @@ layout: default
                         <article class="s-12">
                            <h1>sitemap</h1>
                            <br>
-                           <iframe src="/sitemap.xml" width="275" height="400"></iframe>
+                           <iframe src="/sitemap.xml" width="280" height="400"></iframe>
                            <br>
                         </article>
                      </div>
