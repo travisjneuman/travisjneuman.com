@@ -10,7 +10,7 @@
 
     <url>
 
-        <loc>http://neumant.io{{ post.url | remove: 'index.html' }}</loc>
+        <loc>http://neumant.io{{ post.url  }}</loc>
 
     </url>
 
@@ -26,7 +26,7 @@
 
     <url>
 
-        <loc>http://neumant.io{{ page.url | remove: 'index.html' }}</loc>
+        <loc>http://neumant.io{{ page.url }}</loc>
 
     </url>
 
