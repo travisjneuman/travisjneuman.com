@@ -3,7 +3,7 @@
 // Variables
 // ----------------------------------------------
 $grid-background-color:             #0F0F0F;
-$grid-line-color:                   #000;
+$grid-line-color:                   #fff;
 $grid-width:                        100px;
 $timeline-events-no:                5;
 $timeline-events-line-height:       8px;
@@ -22,7 +22,7 @@ h1 {
 	position: absolute;
 	top: 20px;
 	left: 935px;
-	color: #fff;
+	color: #10A5FF;
 	font-weight: normal;
 	font-size: 28px;
 	text-transform: uppercase;
@@ -42,7 +42,7 @@ h1 {
 }
 .timelines-years li {
 	position: relative;
-	top: -6px;	
+	top: -6px;
 	display: inline-block;
   width: #{$grid-width * 2};
 	color: #868686;
@@ -93,7 +93,7 @@ h1 {
 	content: '';
 }
 @for $i from 1 through $timeline-events-no {
-    .timeline-events li:nth-child(#{$i}) { 
+    .timeline-events li:nth-child(#{$i}) {
     bottom: #{((($timeline-events-line-height * 2) * $i)) - ($timeline-events-line-height * 2)};
     }
 }
