@@ -11,7 +11,7 @@ body {
   /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, #D3D3D3 0%, #A9A9A9 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bea2e7', endColorstr='#86b7e7',GradientType=0 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D3D3D3', endColorstr='#A9A9A9',GradientType=0 );
   /* IE6-9 */
 }
 
