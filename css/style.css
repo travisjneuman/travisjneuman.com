@@ -21,7 +21,7 @@ body {
   list-style: none;
   position: relative;
   padding: 1px 100px;
-  color: #fff;
+  color: #000;
   font-size: 13px;
 }
 .container ul:before {
@@ -29,7 +29,7 @@ body {
   width: 1px;
   height: 100%;
   position: absolute;
-  border-left: 2px dashed #fff;
+  border-left: 2px dashed #000;
 }
 .container ul li {
   position: relative;
