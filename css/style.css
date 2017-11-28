@@ -53,11 +53,11 @@ body {
 }
 .container ul li > span:before, .container ul li > span:after {
   content: "";
-  width: 12px;
+  width: 8px;
   height: 8px;
   border-radius: 50%;
   border: 2px solid #fff;
-  position: left;
+  position: absolute;
   background: #86b7e7;
   left: -5px;
   top: 0;
@@ -84,7 +84,7 @@ body {
 .container span.number span {
   position: absolute;
   font-size: 10px;
-  left: -35px;
+  left: -45px;
   font-weight: bold;
 }
 .container span.number span:first-child {
