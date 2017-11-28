@@ -5,7 +5,7 @@ body{
   transition: all 1s ease;
 }
 body{
-    background: url('http://extrawall.net/images/wallpapers/378_1920x1080_abstract_city.jpg') no-repeat fixed center;
+    background: url('/img/wallpaper.png') no-repeat fixed center;
   background-size: cover;
 }
 
