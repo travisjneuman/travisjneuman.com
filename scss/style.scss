@@ -101,8 +101,8 @@ h1 {
 /* Timeline - Events - Colours */
 /* Grey/Green */
 .timeline-events li:nth-child(1):before {
-    background: #C2E34E;
-    @include background-image(linear-gradient(left, $grid-background-color 0, #C2E34E 100%));
+    background: #10A5FF;
+    @include background-image(linear-gradient(left, $grid-background-color 0, #10A5FF 100%));
     border-radius: 0 6px 6px 0;
 }
 .timeline-events li:nth-child(1) h3 {
