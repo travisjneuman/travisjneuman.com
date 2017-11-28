@@ -47,7 +47,7 @@ h1 {
 
 /* Display last year */
 .timelines-years li:last-child {
-  width: 100px;
+  width: 25px;
 }
 
 /* Timeline - Events */
@@ -182,13 +182,13 @@ h1 {
 /* X.5 years */
 .timeline-event-years-0-5,
 .timeline-event-years-0-5:before {
-  width: 50px;
+  width: 25px;
 }
 
 /* X years */
 .timeline-event-years-1,
 .timeline-event-years-1:before {
-  width: 100px;
+  width: 25px;
 }
 
 /* X.5 years */
