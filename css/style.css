@@ -25,7 +25,7 @@ h1 {
 .timelines-years {
   position: absolute;
   top: 300px;
-  padding: 0 0 0 25px;
+  padding: 0 0 0 200px;
   margin: 0;
   white-space: nowrap;
   border-top: 1px solid #282828;
@@ -38,7 +38,7 @@ h1 {
   position: relative;
   top: -6px;
   display: inline-block;
-  width: 25px;
+  width: 200px;
   color: #868686;
   font-size: 11px;
   line-height: 11px;
@@ -47,7 +47,7 @@ h1 {
 
 /* Display last year */
 .timelines-years li:last-child {
-  width: 25px;
+  width: 100px;
 }
 
 /* Timeline - Events */
@@ -162,9 +162,9 @@ h1 {
   background-image: url('/img/wallpaper.png');
   background-size: 100%;
   background-image: -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, #4a8b8f), color-stop(100%, #0f0f0f));
-  background-image: -moz-linear-gradient(left, #4a8b8f 0%, #0f0f0f 100%);
-  background-image: -webkit-linear-gradient(left, #4a8b8f 0%, #0f0f0f 100%);
-  background-image: linear-gradient(to right, #4a8b8f 0%, #0f0f0f 100%);
+  background-image: -moz-linear-gradient(left, #4a8b8f 0%, #0f0f0f 0%);
+  background-image: -webkit-linear-gradient(left, #4a8b8f 0%, #0f0f0f 0%);
+  background-image: linear-gradient(to right, #4a8b8f 0%, #0f0f0f 0%);
   border-radius: 6px 0 0 6px;
 }
 
@@ -182,13 +182,13 @@ h1 {
 /* X.5 years */
 .timeline-event-years-0-5,
 .timeline-event-years-0-5:before {
-  width: 25px;
+  width: 50px;
 }
 
 /* X years */
 .timeline-event-years-1,
 .timeline-event-years-1:before {
-  width: 25px;
+  width: 100px;
 }
 
 /* X.5 years */
