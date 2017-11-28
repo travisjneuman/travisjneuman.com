@@ -71,7 +71,7 @@ h1 {
 
 .timeline-events h2 {
   color: #777;
-  text-transform: light;
+  text-transform: none;
 }
 
 .timeline-events h4 {
