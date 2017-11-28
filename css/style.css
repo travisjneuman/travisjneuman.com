@@ -176,7 +176,7 @@ h1 {
 /* X years */
 .timeline-event-years-0,
 .timeline-event-years-0:before {
-  width: 0px;
+  width: 25px;
 }
 
 /* X.5 years */
