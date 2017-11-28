@@ -57,7 +57,7 @@ body {
   height: 8px;
   border-radius: 50%;
   border: 2px solid #fff;
-  position: absolute;
+  position: left;
   background: #86b7e7;
   left: -5px;
   top: 0;
