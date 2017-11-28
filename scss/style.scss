@@ -1,0 +1,201 @@
+@import "compass/css3";
+
+// Variables
+// ----------------------------------------------
+$grid-background-color:             #0F0F0F;
+$grid-line-color:                   #000;
+$grid-width:                        100px;
+$timeline-events-no:                5;
+$timeline-events-line-height:       8px;
+$timeline-years-no:                 8;
+
+body {
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	background: $grid-background-color;
+  @include background-image(linear-gradient(90deg, $grid-background-color 0, $grid-background-color $grid-width - 1, $grid-line-color $grid-width));
+	background-size: $grid-width $grid-width;
+}
+
+h1 {
+	position: absolute;
+	top: 20px;
+	left: 935px;
+	color: #fff;
+	font-weight: normal;
+	font-size: 28px;
+	text-transform: uppercase;
+}
+
+/* Timeline - Years */
+.timelines-years {
+	position: absolute;
+	top: 300px;
+  padding: 0 0 0 #{$grid-width * 2};
+	margin: 0;
+	white-space: nowrap;
+	border-top: 1px solid #282828;
+	list-style: none;
+	/* Fix display: inline-block spacing issue */;
+	font-size: 0;
+}
+.timelines-years li {
+	position: relative;
+	top: -6px;	
+	display: inline-block;
+  width: #{$grid-width * 2};
+	color: #868686;
+	font-size: 11px;
+	line-height: 11px;
+	text-indent: -12px;
+}
+/* Display last year */
+.timelines-years li:last-child {
+	width: $grid-width;
+}
+
+/* Timeline - Events */
+.timeline-events {
+	position: absolute;
+	top: 170px;
+	padding: 0;
+	list-style: none;
+	white-space: nowrap;
+	/* Fix display: inline-block spacing issue */;
+	font-size: 0;
+}
+.timeline-events h2,
+.timeline-events h3,
+.timeline-events h4 {
+	margin: 0 0 1px 0;
+	font-weight: normal;
+	font-size: 11px;
+}
+.timeline-events h2 {
+	color: #777;
+	text-transform: uppercase;
+}
+.timeline-events h4 {
+	color: #fff;
+	font-style: italic;
+}
+.timeline-events li {
+	position: relative;
+	display: inline-block;
+}
+.timeline-events li:before {
+	position: absolute;
+	left: 0;
+	bottom: -36px;
+	height: $timeline-events-line-height;
+	border-radius: $timeline-events-line-height;
+	content: '';
+}
+@for $i from 1 through $timeline-events-no {
+    .timeline-events li:nth-child(#{$i}) { 
+    bottom: #{((($timeline-events-line-height * 2) * $i)) - ($timeline-events-line-height * 2)};
+    }
+}
+
+/* Timeline - Events - Colours */
+/* Grey/Green */
+.timeline-events li:nth-child(1):before {
+    background: #C2E34E;
+    @include background-image(linear-gradient(left, $grid-background-color 0, #C2E34E 100%));
+    border-radius: 0 6px 6px 0;
+}
+.timeline-events li:nth-child(1) h3 {
+    color: #C2E34E;
+}
+/* Orange */
+.timeline-events li:nth-child(2):before {
+    background: #FF9704;
+}
+.timeline-events li:nth-child(2) h3 {
+    color: #FF9704;
+}
+/* Blue */
+.timeline-events li:nth-child(3):before {
+    background: #56C2F3;
+}
+.timeline-events li:nth-child(3) h3 {
+    color: #56C2F3;
+}
+/* Red */
+.timeline-events li:nth-child(4):before {
+    background: #DD3D01;
+}
+.timeline-events li:nth-child(4) h3 {
+    color: #DD3D01;
+}
+/* Aqua/Grey */
+.timeline-events li:nth-child(5):before {
+    background: #4A8B8F;
+    @include background-image(linear-gradient(left, #4A8B8F 0, $grid-background-color 100%));
+    border-radius: 6px 0 0 6px;
+}
+.timeline-events li:nth-child(5) h3 {
+    color: #4A8B8F;
+}
+
+/* Timeline - Events - Grid */
+@for $i from 0 through $timeline-years-no {
+    /* X years */
+    .timeline-event-years-#{$i},
+    .timeline-event-years-#{$i}:before {
+        width: #{$grid-width * $i};
+    }
+    /* X.5 years */
+    .timeline-event-years-#{$i}-5,
+    .timeline-event-years-#{$i}-5:before {
+	      width: #{($grid-width * $i) + ($grid-width / 2)};
+    }
+}
+
+/* Timeline - Legend */
+.timeline-event-legend {
+	position: relative;
+}
+.timeline-event-legend span {
+	position: absolute;
+	bottom: -150px;
+	left: 850px;
+}
+.timeline-event-legend h2,
+.timeline-event-legend h3,
+.timeline-event-legend h4 {
+	display: inline;
+	margin-right: 10px;
+}
+.timeline-event-legend i {
+	position: absolute;
+	width: 0;
+	height: 0;
+	border: #{$timeline-events-line-height / 2} solid transparent;
+	border-bottom-color: #fff;
+}
+.timeline-event-legend i:after {
+	content: '';
+	position: absolute;
+	width: 0;
+	height: 0;
+  border: #{$timeline-events-line-height / 2} solid transparent;
+	border-top-color: #fff;
+}
+.timeline-event-legend > i {
+	bottom: -32px;
+	right: -12px;
+}
+.timeline-event-legend > i:after {
+	left: -#{$timeline-events-line-height / 2};
+	bottom: -12px;
+}
+.timeline-event-legend span > i {
+	top: -1px;
+	left: -14px;
+}
+.timeline-event-legend span > i:after {
+	left: -4px;
+	bottom: -12px;
+}

@@ -3,57 +3,61 @@
 <head>
   <meta charset="UTF-8">
   <title>Travis Neuman</title>
-  
-  
-  <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css'>
-<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
 
-      <link rel="stylesheet" href="css/style.css">
 
-  
+
+      <link rel="stylesheet" href="/css/style.css">
+
+
 </head>
 
 <body>
-  <div class="structure" ng-app="app" ng-controller="HomeController">
-  
-<div class="preloaderimg">
-  <img src="https://wallpaperscraft.com/image/tropics_sea_palm_trees_vacation_84858_2412x1810.jpg" alt="" style="display: none;" />
-  <img src="http://extrawall.net/images/wallpapers/378_1920x1080_abstract_city.jpg" alt="" style="display: none;" />
-  <img src="http://www.churchmilitant.com/images/uploads/2015-06-12-niles-x.jpg" alt="" style="display: none;"/>
-</div>
+  <h1>Timeline</h1>
+<ul class="timeline-events">
+	<li class="timeline-event-years-6-5 timeline-event-legend">
+		<span>
+			<i></i>
+			<h2>Graduation</h2>
+			<h3>University of California, San Diego</h3>
+			<h4>BA Visual Arts</h4>
+		</span>
+		<i></i>
+	</li>
+	<li class="timeline-event-years-2">
+		<h2>2004-2006</h2>
+		<h3>Ideaworks Advertising</h3>
+		<h4>Interactive Designer</h4>
+	</li>
+	<li class="timeline-event-years-2">
+		<h2>2006-2008</h2>
+		<h3>Pint, Inc</h3>
+		<h4>Associate Creative Director</h4>
+	</li>
+	<li class="timeline-event-years-3">
+		<h2>2008-2011</h2>
+		<h3>Cuker Interactive</h3>
+		<h4>Creative</h4>
+	</li>
+	<li class="timeline-event-years-7">
+		<h2>2011-Present</h2>
+		<h3>Independent</h3>
+		<h4>Interactive Art Director</h4>
+	</li>
+</ul>
+<ul class="timelines-years">
+	<li>2000</li>
+	<li>2002</li>
+	<li>2004</li>
+	<li>2006</li>
+	<li>2008</li>
+	<li>2010</li>
+	<li>2012</li>
+	<li>2014</li>
+	<li>2016</li>
+	<li>2018</li>
+</ul>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
-<div class="timeline"></div>
-
-<div class="timeline">  
-   <div ng-repeat="date in dates track by $index" class="date date-{{$index}}">
-      <div class="goal_wrap goal_real_estate" ng-show="goal_real_estate_{{date}}">
-       <i class="fa fa-building" aria-hidden="true"></i>
-     </div>
-      <div class="goal_wrap goal_involve" ng-show="goal_involve_{{date}}">
-       <i class="fa fa-graduation-cap" aria-hidden="true"></i>
-     </div>
-      <div class="goal_wrap goal_retirement" ng-show="goal_retirement_{{date}}">
-       <i class="fa fa-leaf" aria-hidden="true"></i>
-     </div>
-    <p class="focus">
-      <a href="#">{{date}}</a>
-    </p>
-  </div>
-</div>
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <h1>{{goal_title}}</h1>
-      </div>
-    </div>
-  </div>
-</div>
-  <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular.min.js'></script>
-
-    <script src="js/index.js"></script>
 
 </body>
 </html>
