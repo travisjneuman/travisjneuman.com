@@ -1,36 +1,39 @@
+---
+
+---
+
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!--<guid value="ba39b497-2f7d-447b-9260-71bb976af989" />-->
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-<url>
-<loc>http://neumant.io/</loc>
-</url>
-<url>
-<loc>http://neumant.io/about</loc>
-</url>
-<url>
-<loc>http://neumant.io/blog</loc>
-</url>
-<url>
-<loc>http://neumant.io/projects</loc>
-</url>
-<url>
-<loc>http://neumant.io/projects/personal</loc>
-</url>
-<url>
-<loc>http://neumant.io/projects/professional</loc>
-</url>
-<url>
-<loc>http://neumant.io/knowledgebase</loc>
-</url>
-<url>
-<loc>http://neumant.io/contact</loc>
-</url>
-<url>
-<loc>http://neumant.io/readme</loc>
-</url>
-<url>
-<loc>http://neumant.io/sitemap</loc>
-</url>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    {% for post in site.posts %}
+
+    <url>
+
+        <loc>http://neumant.io{{ post.url  }}</loc>
+
+    </url>
+
+    {% endfor %}
+
+
+
+    {% for page in site.pages %}
+
+    {% if page.layout != nil %}
+
+    {% if page.layout != 'feed' %}
+
+    <url>
+
+        <loc>http://neumant.io{{ page.url }}</loc>
+
+    </url>
+
+    {% endif %}
+
+    {% endif %}
+
+    {% endfor %}
+
 </urlset>
