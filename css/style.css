@@ -53,7 +53,7 @@ body {
 }
 .container ul li > span:before, .container ul li > span:after {
   content: "";
-  width: 8px;
+  width: 12px;
   height: 8px;
   border-radius: 50%;
   border: 2px solid #fff;
