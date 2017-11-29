@@ -159,7 +159,7 @@
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
-		text-transform: ;
+		text-transform: none;
 		letter-spacing: 0.2rem;
 	}
 
@@ -346,7 +346,7 @@
 		letter-spacing: 0.2rem;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
-		text-transform: ;
+		text-transform: none;
 	}
 
 	input[type="text"],
@@ -968,7 +968,7 @@
 		padding: 0 1.25rem 0 1.35rem;
 		text-align: center;
 		text-decoration: none;
-		text-transform: ;
+		text-transform: none;
 		white-space: nowrap;
 	}
 
@@ -1262,7 +1262,7 @@
 				}
 
 			#header .content p {
-				text-transform: ;
+				text-transform: none;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
 				line-height: 2;
@@ -1295,7 +1295,7 @@
 					height: 2.75rem;
 					line-height: 2.75rem;
 					padding: 0 1.25rem 0 1.45rem;
-					text-transform: ;
+					text-transform: none;
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
@@ -1574,7 +1574,7 @@
 			font-size: 0.6rem;
 			opacity: 0.75;
 			margin-bottom: 0;
-			text-transform: ;
+			text-transform: none;
 		}
 
 		body.is-article-visible #footer {
