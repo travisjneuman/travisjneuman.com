@@ -71,7 +71,7 @@
 	}
 
 	body {
-		background: #1b1f22;
+		background: #000000;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after, body.is-switching *, body.is-switching *:before, body.is-switching *:after {
@@ -395,7 +395,7 @@
 		}
 
 	select option {
-		background: #1b1f22;
+		background: #000000;
 		color: #ffffff;
 	}
 
@@ -508,7 +508,7 @@
 		input[type="radio"]:checked + label:before {
 			background: #ffffff !important;
 			border-color: #ffffff !important;
-			color: #1b1f22;
+			color: #000000;
 			content: '\f00c';
 		}
 
@@ -1012,7 +1012,7 @@
 		button.special,
 		.button.special {
 			background-color: #ffffff;
-			color: #1b1f22 !important;
+			color: #000000 !important;
 			font-weight: 600;
 		}
 
