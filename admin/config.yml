@@ -1,7 +1,7 @@
 
 backend:
   name: github
-  repo: neumant/homepage
+  repo: neumant/website
   branch: master
   site_domain: travisjneuman.com
 
