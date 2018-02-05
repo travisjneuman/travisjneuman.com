@@ -1,0 +1,11 @@
+# Site settings
+title: Travis J. Neuman
+email: me@travisjneuman.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is my personal website, used for learning, blogging, etc.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://travisjneuman.com" # the base hostname & protocol for your site
+twitter_username: neumant_io
+github_username:  neumant
+theme: jekyll-theme-midnight
+include: ['_pages']
