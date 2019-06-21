@@ -1,9 +1,9 @@
 
 backend:
   name: github
-  repo: neumant/website
+  repo: BarFlyInfoTech/Home
   branch: master
-  site_domain: travisjneuman.com
+  site_domain: barflyventures.org
 
 media_folder: /img
 public_folder: /img

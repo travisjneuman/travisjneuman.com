@@ -1,11 +1,11 @@
 # Site settings
-title: Travis J. Neuman
-email: me@travisjneuman.com
+title: BarFly Ventures
+email: it@barflyventures.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my personal website, used for learning, blogging, etc.
+  This is a BarFly Ventures team support website!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://travisjneuman.com" # the base hostname & protocol for your site
-twitter_username: neumant_io
-github_username:  neumant
+url: "https://barflyventures.org" # the base hostname & protocol for your site
+twitter_username: BarFlyIT
+github_username:  BarFlyInfoTech
 theme: jekyll-theme-midnight
 include: ['_pages']
