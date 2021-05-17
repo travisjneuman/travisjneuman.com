@@ -231,7 +231,7 @@ input, select, textarea {
 		height: 100%;
 		left: 0;
 		opacity: 1;
-		position: relative;
+		position: fixed;
 		top: 0;
 	}
 
@@ -300,7 +300,7 @@ input, select, textarea {
 	}
 
 	#bg {
-		background-size: 2250px auto;
+		background-size: 4500px auto;
 		width: 6750px;
 	}
 
