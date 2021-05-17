@@ -300,8 +300,7 @@ input, select, textarea {
 	}
 
 	#bg {
-		background-size: 2250px contain;
-		width: 6750px;
+		background-size: 100%;
 	}
 
 /* Overlay */
