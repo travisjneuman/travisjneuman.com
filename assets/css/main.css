@@ -300,7 +300,7 @@ input, select, textarea {
 	}
 
 	#bg {
-		background-size: 2250px fill;
+		background-size: 2250px contain;
 		width: 6750px;
 	}
 
