@@ -231,7 +231,7 @@ input, select, textarea {
 		height: 100%;
 		left: 0;
 		opacity: 1;
-		position: static;
+		position: relative;
 		top: 0;
 	}
 
