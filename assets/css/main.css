@@ -720,7 +720,7 @@ input, select, textarea {
 		cursor: default;
 		height: 18em;
 		left: 0;
-		line-height: 8em;
+		line-height: 16em;
 		position: absolute;
 		text-align: center;
 		width: 100%;
