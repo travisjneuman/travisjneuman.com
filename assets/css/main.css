@@ -358,7 +358,7 @@ input, select, textarea {
 		background-size: auto, cover;
 		height: 100%;
 		left: 0;
-		opacity: 0;
+		opacity: 50;
 		position: fixed;
 		top: 0;
 		width: 100%;
