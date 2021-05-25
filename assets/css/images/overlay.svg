@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000px" height="1000px" viewBox="0 0 1000 1000" zoomAndPan="disable">
     <style type="text/css"><![CDATA[
 		line {
-			stroke: rgba(255,255,255,0.45);
+			stroke: rgba(0,0,0,0.45);
 			stroke-width: 0.5px;
 		}
 		
 		polygon.one {
-			fill: rgba(255,255,255,0.225);
+			fill: rgba(0,0,0,0.225);
 		}
 		
 		polygon.two {
-			fill: rgba(255,255,255,0.15);
+			fill: rgba(0,0,0,0.15);
 		}
 		
 		polygon.three {
-			fill: rgba(255,255,255,0.075);
+			fill: rgba(0,0,0,0.075);
 		}
 		
     ]]></style>
